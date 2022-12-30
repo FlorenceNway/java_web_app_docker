@@ -40,8 +40,9 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Mithun Technologies, Marathahalli, Bengaluru,Karnataka.</h2>
-			<h3>Contact @ +91-9980923226,+91-9980923216</h3>
+			<h2>Welcome To New World Technologies</h2>
+			<h3>Contact @ +95-9444438958</h3>
+			<h4>DevOps Project 1 - Jenkins Integrate with Docker</h4>
 		</div>	
 	</div>
 
